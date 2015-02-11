@@ -8,9 +8,13 @@ OpenGL solar system and controllable space ship
 
 # Controls
 Environment controls:
+
 r: toggles planets rings
+
 s: toggles stars
+
 c: toggles sun's corona
+
 k: toggle's spaceships shield
 esc/q: quit application
 
