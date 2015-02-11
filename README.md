@@ -8,20 +8,16 @@ OpenGL solar system and controllable space ship
 
 # Controls
 Environment controls:
-
-r: toggles planets rings
-
-s: toggles stars
-
-c: toggles sun's corona
-
-k: toggle's spaceships shield
-esc/q: quit application
+- r: toggles planets rings
+- s: toggles stars
+- c: toggles sun's corona
+- k: toggle's spaceships shield
+- esc/q: quit application
 
 Spaceship controls:
-Up Arrow: move up
-Down Arrow: move down
-Left Arrow: move left
-Page Up: move forward
-Page Down: move backwards
-f1 shoot lasers
+- Up Arrow: move up
+- Down Arrow: move down
+- Left Arrow: move left
+- Page Up: move forward
+- Page Down: move backwards
+- f1 shoot lasers
